@@ -4,6 +4,10 @@
     {
       "name": "Install Dependencies",
       "command": "yarn install"
+    },
+    {
+      "name": "tests",
+      "command": "yarn test"
     }
   ],
 
@@ -21,7 +25,7 @@
     },
     "test": {
       "name": "test",
-      "command": "npm test",
+      "command": "yarn test",
       "runAtStart": true
     }
   }
