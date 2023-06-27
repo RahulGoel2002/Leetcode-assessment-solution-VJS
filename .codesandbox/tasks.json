@@ -20,14 +20,9 @@
       "runAtStart": false
     },
     "test": {
-<<<<<<< HEAD
       "name": "test",
       "command": "npm test",
       "runAtStart": true
-=======
-      "name": "npm test",
-      "command": "npm test"
->>>>>>> 7a0c9042c662b96545b13a866f36ac68bf7134aa
     }
   }
 }
